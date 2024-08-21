@@ -1,2 +1,2 @@
 # -HELLO-WORLD-
-Primeiro repositório github - AULA 1 DE TYPESCRIPT
+Exemplo repositório github - AULA 1 DE TYPESCRIPT
